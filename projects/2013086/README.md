@@ -32,3 +32,12 @@ Github έτσι ώστε στο μέλλον σε διάφορα project και 
 # Παραδοτέο 3
 Έγινε η προσθήκη του συμμετοχικού περιεχομένου με το ανέβασμα 2 εικόνων ξεχωριστών που λειτουργούν στα διαδραστικά πλαίσια που έχει ορίσει το μάθημα. Επίσης δημιουργήθηκαν 2 αρχεία .md που λειτουργούν ως λεζάντα για την περιγραφή των εκάστοτε εικόνων.Οι εικόνες (και οι δύο ξεχωριστές που ζητήθηκαν)είναι η κάθε μία σε original size και παραμετροποιημένες με πλάτος 160px.Μετά ακολούθησε το pull request στην ομάδα μου έτσι ώστε να συγχωνευτούν όλα τα περιεχόμενα για το site καθώς και ο συγχρονισμός του fork μου έτσι ώστε να έχω τα νέα περιεχόμενα του site για το test deploy του site στο netlify.
 
+[pull request](https://github.com/Unixidized/_gallery/pull/5)
+
+[pull request](https://github.com/Unixidized/images/pull/7)
+
+
+## Netlify:
+[commodore 128](https://jade-fenglisu-025746.netlify.app/gallery/commodore-128/)
+
+[zork game](https://jade-fenglisu-025746.netlify.app/gallery/zorc-game/)
